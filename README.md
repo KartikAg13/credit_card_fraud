@@ -11,7 +11,6 @@ Credit card fraud detection is challenging due to the rarity of fraudulent trans
 - **main.ipynb**: Jupyter Notebook containing the complete code and analysis.
 - **LICENSE**: The license for this project.
 - **README.md**: This file.
-- **.gitignore**: Specifies files to be ignored by Git.
 
 ## Project Workflow
 
